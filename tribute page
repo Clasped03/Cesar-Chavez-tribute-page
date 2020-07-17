@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Cesar Chavez Tribute page</title>
+<style>
+	body {
+  		background-color: white;
+  		text-align: center;
+  		color: black;
+  		font-family: Arial, Helvetica, sans-serif;
+		}
+	
+    .pic {
+    	max-width: 100%;
+    	display: block;
+        height: auto;
+        margin: 0 auto;
+    	}	
+
+</style>
+</head>
+<body>
+	<h1>The Cesar Chavez Tribute page</h1>
+	<div id="img-div">
+    	<img id="image" class="pic" src="https://images.thestar.com/content/dam/thestar/news/world/2014/05/18/cesar_chavez_what_the_new_movie_doesnt_tell_you/cesar_chavez.jpg" 
+                    alt="Cesar Chavez meeting with farm Workers" 						style="width:300px">
+        <figcaption id="img-caption">
+      Cesar Chavez, the man who led a crusade for migrant worker rights.
+    	</figcaption>
+	</div>
+<div id="tribute info">
+	<p>César Estrada Chávez (Spanish pronunciation: [ˈsesaɾ esˈtɾaða ˈtʃaβes]; also ['sizəɹ ˈtʃavɛz] March 31, 1927 – April 23, 1993) was an American labor leader, community organizer, and Latino American civil rights activist. Along with Dolores Huerta, he co-founded the National Farm Workers Association (NFWA), which later merged to become the United Farm Workers (UFW) labor union. Ideologically, his world-view combined leftist politics with Roman Catholic social teachings. </p>
+    
+    <h3 style="color:black"> List of accomplishments:</h3>
+  <ul>  
+    <li><strong>1959</strong> became the CSO's national director, a position based in Los Angeles.
+    </li>
+    
+    <li><strong>1962</strong> left the CSO to co-found the NFWA</li>
+    
+    
+    <li><strong>1967</strong> formed the UFW organization</li>
+  </ul>  
+    <h3> You can find more info regarding Mr. Chavez on his 
+    <a id=tribute link" href="https://en.wikipedia.org/wiki/Cesar_Chavez" target="_blank">Wikipedia Entry</a>
+    
+    </h3>
+    
+</div>
+
+</body>
+</html>
+
